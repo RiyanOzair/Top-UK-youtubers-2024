@@ -114,7 +114,7 @@ Some of the data visuals that may be appropriate in answering our questions incl
 
 
 
-![Dashboard-Mockup](assets/images/Mockup_Dashboard.png)
+![Dashboard-Mockup](assests/images/Mockup_Dashboard.png)
 
 
 ## Tools 
@@ -344,7 +344,7 @@ HAVING
 
 - What does the dashboard look like?
 
-![GIF of Power BI Dashboard](assets/images/top_uk_youtubers_dashboard.gif)
+![GIF of Power BI Dashboard](assests/images/top_uk_youtubers_dashboard.gif)
 
 This shows the Top UK Youtubers in 2024 so far. 
 
